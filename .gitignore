@@ -60,3 +60,6 @@ build/
 /nbproject/
 public/assets/**
 config/database.yml
+
+# Spring conflicts with git ... ignore it
+/spring/*.pid

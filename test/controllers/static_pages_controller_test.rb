@@ -25,6 +25,8 @@ class StaticPagesControllerTest < ActionController::TestCase
     assert_response :success
     assert_select "title", "Contact | Ruby on Rails Tutorial Sample App"
   end
+  
+      
 end
 
 #cereal
